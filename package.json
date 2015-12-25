@@ -1,0 +1,13 @@
+{
+  "name": "register-coffee-coverage",
+  "version": "0.0.1",
+  "author": "Alexios Brezas <abresas@gmail.com>",
+  "description": "Drop-in replacement for coffee-coverage that makes sure coffee-coverage does not get replaced",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abresas/register-coffee-coverage.git"
+  },
+  "dependencies": {
+    "coffee-coverage": "~0.7.0"
+  }
+}
